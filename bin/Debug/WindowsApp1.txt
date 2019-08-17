@@ -1,0 +1,5 @@
+﻿ファイルが検疫されました
+
+Microsoft Forefront Protection for Exchange Server によって、マルウェアに感染したファイルが削除されました。
+ファイル名: "winmail.dat->大阪情報専門学校_田渕啓夢.zip->WindowsApp1.exe"
+マルウェア名: "W32/Trojan.BVF.gen!Eldorado"
